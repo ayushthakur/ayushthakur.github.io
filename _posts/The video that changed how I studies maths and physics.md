@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "For the love of physics"
 excerpt: "I fell in love with physics, after watching this video . . "
 categories: journey
