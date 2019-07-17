@@ -1,1 +1,2 @@
-a blog for data journalism
+# ayushthakur.github.io
+My personal blog
