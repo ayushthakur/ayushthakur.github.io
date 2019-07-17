@@ -3,7 +3,7 @@ layout: post
 title:  "For the love of physics"
 excerpt: "I fell in love with physics, after watching this video . . "
 categories: journey
-tags: physics
+tags: lifecalendar
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
